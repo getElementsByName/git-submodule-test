@@ -1,0 +1,22 @@
+{
+  "name": "submodule-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/getElementsByName/git-submodule-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/getElementsByName/git-submodule-test/issues"
+  },
+  "homepage": "https://github.com/getElementsByName/git-submodule-test#readme",
+  "dependencies": {
+    "sub-package-test": "git+https://git@github.com/getElementsByName/sub-package-test.git#master"
+  }
+}
