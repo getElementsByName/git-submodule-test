@@ -4,4 +4,4 @@
 
 "sub-package-test@git+https://git@github.com/getElementsByName/sub-package-test.git#master":
   version "1.0.0"
-  resolved "git+https://git@github.com/getElementsByName/sub-package-test.git#e6a86c8ee724b6fd8046eff810cf9786ff6b564a"
+  resolved "git+https://git@github.com/getElementsByName/sub-package-test.git#c5b062264f42c01db1aaae09a57a87c11302cba3"
