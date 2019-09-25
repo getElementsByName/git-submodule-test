@@ -1,0 +1,3 @@
+[submodule "submodule-target"]
+	path = submodule-target
+	url = https://github.com/getElementsByName/sub-package-test
